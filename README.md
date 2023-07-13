@@ -1,1 +1,10 @@
-Learn what matters
+# Learn what matters
+
+<!-- Basic topics -->
+- word vs keyword
+- var const let
+- hoisting
+- types in js
+- conditionals
+- if else else-if
+- 
