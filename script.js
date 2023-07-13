@@ -92,4 +92,19 @@
 // }
 // helobolo();
 
+// 8.parameter and arguments
+
+//  parameter = variables junme value store hoti hai arguments vali
+// function abcd(a, b, c) {
+//   console.log(a, b, c);
+// }
+//  argument = ral value jo hum dete hai fundtion chalate waqt
+// abcd(12, 13, 14);
+
+// 9. arrays - groupe of values
+
+// hum ek variale me ek value store kar paate hai par our jab hame ek se jyade value store karni ho tab array ka use hota hai 
+// var arr  = [12,13,14 ....];
+
+
 

@@ -9,3 +9,5 @@
 - loops
 - functions
 - parameters and arguments
+- arrays
+- push pop unshift shift 
