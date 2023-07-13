@@ -11,21 +11,20 @@
 // const- jiski value change na ho
 // let-
 
-
 //3. hoisting
 
 // hoisting - variables and functions are get hoisted which means the declaration of variable is moved on the top of the code
 
-console.log(a);
-var a = 12 
-// js covert this line into 
-var a; // called declaration
-a = 12; // called initialation
+// console.log(a);
+// var a = 12
+// js covert this line into
+// var a; // called declaration
+// a = 12; // called initialation
 
 // undefined - exist but no value
 // not defined - no exist
 
- // 4. types in js
+// 4. types in js
 
 // there are two types in js which is primitive type and reference type
 
@@ -33,30 +32,58 @@ a = 12; // called initialation
 //reference = {} [] ()
 
 // aise koi bhi value jisko copy karne pr real copy nahi hota, balki usme value ka reference pass ho jata hai use reference value kahte hai
-var a = [1, 2, 3, 4, 5, 6]
-var b = a;
-b.pop();
+// var a = [1, 2, 3, 4, 5, 6]
+// var b = a;
+// b.pop();
 //aur jisko copy karne pr real copy ho jaaye wo value primitive type value hoti hai
- 
 
 // 5.conditionals - if else else-if
 
 // if - agar brackets ke under ki value true aai to if work krega
-if(33>12){
+// if(33>12){
 
-}
+// }
 // else - agar brackets ke under ki value false aai to else work krega
-if(33>76){
-}
-else(33<77){
-}
-// else-if - jab ek se jyada else ho 
-if(33>76){
-}
-else if(34>77){
-}
-else if(33>77){
-}
-else(33<77){
-}
+// if(33>76){
+// }
+// else(33<77){
+// }
+// else-if - jab ek se jyada else ho
+// if(33>76){
+// }
+// else if(34>77){
+// }
+// else if(33>77){
+// }
+// else(33<77){
+// }
+
+// 6. loops - for while
+
+// loop ka matlab rapeate
+// 1 1 1 1 1 1 1 1 1  // repeate print 1
+// 1 2 3 4 5 6 7 8 9  // repeate print
+
+// for loop
+
+// 0 - 10
+// for(var i = 0; i<11; i++){
+//     console.log(i);
+// }
+
+// while loop
+
+// var a = 12;
+
+// while (a < 20) {
+//   a++;
+// }
+
+// 7. functions - means aap kuch code likh kar koi naam de sakte ho and baad me usey use kr sakte ho with that name as many times
+
+//functions mainly teen kaam ke leye use hote hai
+
+// 1)jab aapka code aap turant nahi chalana chahate aur future me chalama chahate ho 
+// 2)jab aapka code aap reuse karna chahte ho
+// 3)jab aap code chalana chahate ho har bar with different date
 

@@ -6,5 +6,5 @@
 - hoisting
 - types in js
 - conditionals
-- 
-  
+- loops
+- functions
