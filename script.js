@@ -39,3 +39,24 @@ b.pop();
 //aur jisko copy karne pr real copy ho jaaye wo value primitive type value hoti hai
  
 
+// 5.conditionals - if else else-if
+
+// if - agar brackets ke under ki value true aai to if work krega
+if(33>12){
+
+}
+// else - agar brackets ke under ki value false aai to else work krega
+if(33>76){
+}
+else(33<77){
+}
+// else-if - jab ek se jyada else ho 
+if(33>76){
+}
+else if(34>77){
+}
+else if(33>77){
+}
+else(33<77){
+}
+
