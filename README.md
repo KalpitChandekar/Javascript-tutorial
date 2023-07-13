@@ -8,3 +8,4 @@
 - conditionals
 - loops
 - functions
+- parameters and arguments

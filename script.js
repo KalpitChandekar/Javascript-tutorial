@@ -83,7 +83,13 @@
 
 //functions mainly teen kaam ke leye use hote hai
 
-// 1)jab aapka code aap turant nahi chalana chahate aur future me chalama chahate ho 
+// 1)jab aapka code aap turant nahi chalana chahate aur future me chalama chahate ho
 // 2)jab aapka code aap reuse karna chahte ho
 // 3)jab aap code chalana chahate ho har bar with different date
+
+// function helobolo(){
+//     console.log("hellow");
+// }
+// helobolo();
+
 
