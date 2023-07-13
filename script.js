@@ -103,8 +103,16 @@
 
 // 9. arrays - groupe of values
 
-// hum ek variale me ek value store kar paate hai par our jab hame ek se jyade value store karni ho tab array ka use hota hai 
+// hum ek variale me ek value store kar paate hai par our jab hame ek se jyade value store karni ho tab array ka use hota hai
 // var arr  = [12,13,14 ....];
 
+// 10.push pop unshift shift
 
+// var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
+// push - pichese ek valuw dalega
+// pop - pichese ek valuw nikalega
+// unshift - aagese ek value dalega
+// shift - aagese ekl value nikalega
+// slice - bich me ek value dalega
+// splice - bich me se ek value nikalega
