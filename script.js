@@ -131,3 +131,7 @@
 // let const braces scoped hota hai => vo bracket ke under hi kam krega
 // let const desn't adds
 
+// 2.stack
+
+// sidha sapat jis order me lop aate hai usi order me jaate hai
+
