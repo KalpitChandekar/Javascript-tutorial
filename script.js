@@ -118,3 +118,16 @@
 // splice - bich me se ek value nikalega
 
  
+//--------Advanced topics---------
+ 
+// 1.difference btw var const let
+
+// es5 = var // var old js me tha
+// var function scoped hota hai => var apne parent fnc me kahi bhi use ho sakta hai 
+// var adds itself to the window abject
+
+
+// es6 = es5 + let const // let const new js me
+// let const braces scoped hota hai => vo bracket ke under hi kam krega
+// let const desn't adds
+

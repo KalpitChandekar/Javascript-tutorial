@@ -5,9 +5,12 @@
 - var const let
 - hoisting
 - types in js
-- conditionals
+- conditionals - if else
 - loops
 - functions
 - parameters and arguments
 - arrays
 - push pop unshift shift 
+
+<!-- Advanced topics -->
+- difference btw var const let
