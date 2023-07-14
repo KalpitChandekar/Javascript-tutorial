@@ -98,7 +98,7 @@
 // function abcd(a, b, c) {
 //   console.log(a, b, c);
 // }
-//  argument = ral value jo hum dete hai fundtion chalate waqt
+//  argument = real value jo hum dete hai fundtion chalate waqt
 // abcd(12, 13, 14);
 
 // 9. arrays - groupe of values
@@ -110,8 +110,8 @@
 
 // var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-// push - pichese ek valuw dalega
-// pop - pichese ek valuw nikalega
+// push - pichese ek value dalega
+// pop - pichese ek value nikalega
 // unshift - aagese ek value dalega
 // shift - aagese ekl value nikalega
 // slice - bich me ek value dalega
