@@ -145,3 +145,6 @@
 
 // => execution context is a container where the function's code is ecuted and it's created whenever a function is called, it contains 3 things: variables, functions and lexical environment.
 
+// 5. lexical environment
+
+// => lexical environment hota hai ek chart jisme ye likha hota hai ke aapke particular function kin cheejo ko access kar sakta hai and kinko nhi, matlab ki it holds its scope and scope chain.
