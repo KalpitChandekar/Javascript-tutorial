@@ -133,10 +133,15 @@
 
 // 2.stack
 
-// sidha sapat jis order me lop aate hai usi order me jaate hai
+// sidha sapat jis order me log aate hai usi order me jaate hai
 
 // 3.heap memory
 
 // jitne bhi variable ya data hum bnate hai unhe store kahi to karna padta hai uske liye heap memory hota hai 
 // 1+3+4+5+6+7=26
 // iske bich ka calculation jo bhi vo heap memory me hota hai
+
+// 4. Execution context
+
+// => execution context is a container where the function's code is ecuted and it's created whenever a function is called, it contains 3 things: variables, functions and lexical environment.
+
