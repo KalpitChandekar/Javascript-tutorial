@@ -117,15 +117,13 @@
 // slice - bich me ek value dalega
 // splice - bich me se ek value nikalega
 
- 
 //--------Advanced topics---------
- 
+
 // 1.difference btw var const let
 
 // es5 = var // var old js me tha
-// var function scoped hota hai => var apne parent fnc me kahi bhi use ho sakta hai 
+// var function scoped hota hai => var apne parent fnc me kahi bhi use ho sakta hai
 // var adds itself to the window abject
-
 
 // es6 = es5 + let const // let const new js me
 // let const braces scoped hota hai => vo bracket ke under hi kam krega
@@ -137,7 +135,7 @@
 
 // 3.heap memory
 
-// jitne bhi variable ya data hum bnate hai unhe store kahi to karna padta hai uske liye heap memory hota hai 
+// jitne bhi variable ya data hum bnate hai unhe store kahi to karna padta hai uske liye heap memory hota hai
 // 1+3+4+5+6+7=26
 // iske bich ka calculation jo bhi vo heap memory me hota hai
 
@@ -148,3 +146,11 @@
 // 5. lexical environment
 
 // => lexical environment hota hai ek chart jisme ye likha hota hai ke aapke particular function kin cheejo ko access kar sakta hai and kinko nhi, matlab ki it holds its scope and scope chain.
+
+// 6. how to copy reference value
+
+// => by using spread function we can copy the reference value
+// var a = [1, 2, 3];
+// var b =[ ...a];
+
+// b.pop();
