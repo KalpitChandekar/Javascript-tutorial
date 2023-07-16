@@ -154,3 +154,18 @@
 // var b =[ ...a];
 
 // b.pop();
+
+// 7. truthy and falsey
+
+// js me kuch bhi likho vo mainly do prakar me se ek prakar se belong karti hai
+
+// falsey - 0 false undefined null NaN document.all    ye sab falsey  values hai
+// truthy - exept above values are all truthy values
+
+//  if(0){
+//     console.log("hey");
+// }
+// else{
+//     console.log("hello mothefucker");
+// }
+

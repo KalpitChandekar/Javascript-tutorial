@@ -21,4 +21,4 @@
 - execution context
 - lexical environment
 - how to copy reference values
-
+- truthy and falsey
