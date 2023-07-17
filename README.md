@@ -23,3 +23,4 @@
 - how to copy reference values
 - truthy and falsey
 - foreach and forin loop
+- first class function

@@ -190,3 +190,16 @@
 // for (var i in obj) {
 //     console.log(i, obj[i]);
 // }
+
+// 9.first class function
+
+// js mein ek concept hota hai jiska mtlb hota hai ki aap function ko use kr sakte ho as a value 
+
+// function abcd(a) {
+//     a();
+// }
+
+// abcd(function()
+//    {console.log("hey");
+// }
+// )
