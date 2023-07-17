@@ -169,3 +169,24 @@
 //     console.log("hello mothefucker");
 // }
 
+// 8. foreach and forin 
+
+// foreach => foreach loop sirf array pe chalta hai matlab ki jab bhi hamare pass ek array ho, tab use mein ata hai fareach loop
+
+//  var a  = [1,2,3,4,5];
+
+//  a.forEach(function(value){
+//     console.log(value+2);
+//  })
+
+// forin => forin use hota hai objects ko loop karne ke liye
+
+// var obj = {
+//     name:"kalpit",
+//     age: 18,
+//     city:"butibori"
+// }
+
+// for (var i in obj) {
+//     console.log(i, obj[i]);
+// }
