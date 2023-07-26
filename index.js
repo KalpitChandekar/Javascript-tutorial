@@ -7,4 +7,8 @@ var loveScore = Math.random();
 loveScore = loveScore * 100;
 loveScore = Math.floor(loveScore) + 1;
 
-alert("Your loveScore is " + loveScore);
+if (loveScore > 70) {
+  alert("Your loveScore is " + loveScore + "%" + " like shahjan and mumtaz ");
+} else {
+  alert("Your loveScore is " + loveScore + " % ");
+}
